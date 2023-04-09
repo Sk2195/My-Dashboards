@@ -8,7 +8,7 @@ These dashboards contain the following sheets:
 
 - [A Beginner's Guide to Data Science]: Showcases skills needed to be a data scientist and what employers look for.
 - [Netflix]: Provides an overview of Netflix memberships.
-- [Sales Dashboard]: Provides a summary of sales at a store.
+- View the dashboard [https://github.com/Sk2195/My-Dashboards/blob/main/HR%20Dashboard.twbx] [HR  Dashboard: Provides an overview of employee attrition.
 
 ## How to View the Dashboards
 
@@ -20,5 +20,5 @@ The data sources for these dashboards are:
 
 - [A Beginner's Guide to Data Science]: Kaggle
 - [Netflix]: [data source(s)]
-- [Sales Dashboard]: [data source(s)]
+- [HR: ]: [data source(s)]
 
